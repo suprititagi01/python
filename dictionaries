@@ -1,0 +1,4 @@
+#dictionaries it means key-value.
+
+dict_creams = {'name':'suprit', 'age':22, 'fav ice cream': ['cone','cup']};
+print(dict_creams)
