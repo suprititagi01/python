@@ -3,7 +3,7 @@ age = 22
 print(name)
 print(age)
 
-student_count = 1000
+student_count = 10000
 rating = 4.99
 is_published = False
 course_name = "python progrmming"
