@@ -17,7 +17,7 @@ print(dict_creams)
 dict_creams.update({'name':'suprit', 'age':22, 'wight':300})
 print(dict_creams)
 
-#deleting
+#deleting 
 
 del dict_creams['wight']
 print(dict_creams)
