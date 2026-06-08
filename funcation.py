@@ -12,7 +12,7 @@ def increment(number, by):
 print(increment(2, 1))
 #default funcation
 def increments(number, by=1):
-    return number + by
+    return number + by 
 
 print(increments(2))
 
