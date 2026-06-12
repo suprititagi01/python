@@ -1,5 +1,4 @@
 #Sets
-
 daily_pints = {1,2,3}
 print(type(daily_pints))
 print(daily_pints)
