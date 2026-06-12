@@ -1,4 +1,4 @@
-#arguments
+#Arguments
 def greet(first_name, last_name):
     print(f"Hi {first_name} {last_name}")
     print("well come")
@@ -10,7 +10,7 @@ def increment(number, by):
     return number + by
 
 print(increment(2, 1))
-#default funcation
+#Default funcation
 def increments(number, by=1):
     return number + by 
 
@@ -39,7 +39,7 @@ def save_user(**user):
     print(user["name"])
 save_user(id=1, name="supi", age=22)
 
-##excersise upon fizz_buzz
+##Excersise upon fizz_buzz
 def fizz_buzz(input):
     if (input % 3 == 0) and (input % 5 == 0):
         return "FizzBuzz"
